@@ -1,0 +1,1 @@
+Please make sure to change the URL for the API in nofifications.js when needed.
